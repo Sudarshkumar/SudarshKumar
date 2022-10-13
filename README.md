@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sudarsh Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer</h3>
 <img src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudarshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshkumar" /> </p>
